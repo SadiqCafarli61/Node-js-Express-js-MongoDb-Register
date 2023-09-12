@@ -1,0 +1,18 @@
+.header-section{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn-color{
+    background-color: #1F64B1;
+    color: #fff;
+    font-weight: 600;
+    width: 130px;
+    height: 45px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 0;
+    outline: none;
+    transition: all .4s ease;
+}

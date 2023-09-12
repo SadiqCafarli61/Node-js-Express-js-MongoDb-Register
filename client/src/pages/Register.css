@@ -1,0 +1,22 @@
+.register-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+.register-section .register{
+    width: 600px;
+    height: 500px;
+}
+.login-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.login-section .login{
+    width: 600px;
+    height: 500px;
+}
